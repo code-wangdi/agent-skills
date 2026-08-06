@@ -1,0 +1,11 @@
+# Security controls require explicit owner review when changed through a pull request.
+/.github/ @code-wangdi
+/.gitignore @code-wangdi
+/.gitleaks.toml @code-wangdi
+/.gitleaksignore @code-wangdi
+/.githooks/ @code-wangdi
+/scripts/check_sensitive_data.py @code-wangdi
+/scripts/install-hooks.sh @code-wangdi
+/scripts/security-scan.sh @code-wangdi
+/tests/test_sensitive_data.py @code-wangdi
+/SECURITY.md @code-wangdi
