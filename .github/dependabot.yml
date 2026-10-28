@@ -4,4 +4,5 @@ updates:
     directory: /
     schedule:
       interval: monthly
-    open-pull-requests-limit: 5
+    # Temporarily paused; restore this limit to 5 to resume version updates.
+    open-pull-requests-limit: 0
